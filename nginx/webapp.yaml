@@ -1,7 +1,7 @@
 apiVersion: bluebridge.lt/v1
 kind: Webapp
 metadata:
-  name: "nginx"
+  name: "webappx"
   # namespace: "nginx"
 spec:
   image: nginx:1.14.1
